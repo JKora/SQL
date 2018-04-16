@@ -41,11 +41,7 @@ For this homework, you’ll need to load data from a sample database provided by
   	
 * 6d. How many copies of the film `Hunchback Impossible` exist in the inventory system?
 
-* 6e. Using the tables `payment` and `customer` and the `JOIN` command, list the total paid by each customer. List the customers alphabetically by last name:
-
-  ```
-  	![Total amount paid](Images/total_payment.png)
-  ```
+* 6e. Using the tables `payment` and `customer` and the `JOIN` command, list the total paid by each customer. List the customers alphabetically by last name.
 
 * 7a. The music of Queen and Kris Kristofferson have seen an unlikely resurgence. As an unintended consequence, films starting with the letters `K` and `Q` have also soared in popularity. Use subqueries to display the titles of movies starting with the letters `K` and `Q` whose language is English. 
 
